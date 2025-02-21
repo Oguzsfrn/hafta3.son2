@@ -1,0 +1,10 @@
+def count_digits(number):
+    return len(str(abs(number)))
+
+def main():
+    number = int(input("Bir sayı giriniz: "))
+    digits = count_digits(number)
+    print(f"Girdiğiniz sayı {digits} basamaklıdır.")
+
+if __name__ == "__main__":
+    main()
