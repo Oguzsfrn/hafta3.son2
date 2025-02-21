@@ -1,8 +1,8 @@
 tatil_gunleri=("Cumartesi", "Pazar")
 sinifler = ["9A", "9B", "9C", "9D", "9E"]
 ogrenci_bilgileri ={
-    "Ad": "Ali",
-    "Soyad": "Yılmaz",
+    "ogrenci_adi": "Ali",
+    "ogrenci_soy": "Yılmaz",
     "Numara": "123",
     "Sınıf": "9A"
 }
